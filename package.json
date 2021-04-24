@@ -1,0 +1,19 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "Instaclone Backend.",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gyeonghun-Park/instaclone-backend.git"
+  },
+  "keywords": [],
+  "author": "Gyeonghun Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gyeonghun-Park/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/Gyeonghun-Park/instaclone-backend#readme"
+}
