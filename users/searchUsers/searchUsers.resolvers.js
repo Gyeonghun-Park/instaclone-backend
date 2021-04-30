@@ -6,6 +6,7 @@ export default {
       client.user.findMany({
         where: {
           username: {
+            mode: "insensitive",
             startsWith: keyword.toLowerCase(),
           },
         },
