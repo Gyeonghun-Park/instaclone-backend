@@ -22,9 +22,9 @@ Instaclone Backend.
 - [x] See Photo
 - [x] See Hashtag
 - [x] Search Photos
-- [ ] Edit Photo
-- [ ] Like / Unlike Photo
-- [ ] See Photo Likes
+- [x] Edit Photo
+- [x] Like / Unlike Photo
+- [x] See Photo Likes
 - [ ] See Feed
 
 ## Comments
