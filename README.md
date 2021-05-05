@@ -28,6 +28,11 @@ Instaclone Backend.
 - [x] See Feed
 - [x] See Photo Comments
 - [x] Delete Photo
+- [x] Edit Comment
+
+## Refactor
+
+- [ ] Mutation Responses
 
 ## Comments
 
